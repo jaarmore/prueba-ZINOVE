@@ -37,6 +37,8 @@ La solucion propuesta se encuentra detallada en el libro: [Solucion](https://git
 
 El archivo python, con el codigo fuente esta en [Fuente](https://github.com/jaarmore/prueba-ZINOVE/blob/main/test-zinove.py)
 
+Los archivos `database.db` y `file.json` son generados durante la ejecucion del programa.
+
 ### AUTHOR
 **Jackson Moreno**
 
